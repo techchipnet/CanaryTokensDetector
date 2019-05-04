@@ -9,5 +9,5 @@ give executable permission.
 Run it and follow instructions.
 #### <code>./canarytokendetector.sh</code>
 ### Video Demo
-Comming Soon..
+[![How to easily detect canarytokens tracking links](https://img.youtube.com/vi/EpTcxoAhKyI/0.jpg)](https://www.youtube.com/watch?v=EpTcxoAhKyI)
 #### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
