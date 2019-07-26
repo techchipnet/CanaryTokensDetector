@@ -1,4 +1,4 @@
-/#!/bin/sh
+#!/bin/sh
 # Canary Token Detector
 # Version 1.0
 # This script will detect canary token in word documents
