@@ -1,6 +1,7 @@
 #!/bin/sh
 # Canary Token Detector
 # Version 1.0
+# Version 1.0
 # This script will detect canary token in word documents
 # Author - Anil Parashar
 # www.techchip.net
