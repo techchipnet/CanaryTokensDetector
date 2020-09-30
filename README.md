@@ -1,8 +1,8 @@
 # CanaryTokensDetector
 ## Summary
-This script will detect canary token in microsoft word documents. It prevent tracking via canary tokens.
+This tool will detect canary token in Documents. It prevent you from getting tracked via canary tokens.
 ## How to run?
-This script tested on Kali Linux & MacOS,Unzip package must be install on your Linux or Mac system. you can install it on debian linux via following commands
+This tool is tested on Kali Linux & MacOS.Package to unzip this tool must be installed on your Linux or Mac system. You can install it on debian linux via following commands.
 #### <code>apt-get install unzip</code>
 give executable permission.
 #### <code> chmod +x canarytokendetector.sh</code>
